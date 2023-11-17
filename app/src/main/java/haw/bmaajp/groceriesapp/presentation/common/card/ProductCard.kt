@@ -119,12 +119,12 @@ fun ItemProductPreview() {
     ProductCard(
         productItem = ProductItem(
             id = 1,
-            title = "Organic Bananas",
-            description = "",
-            image = R.drawable.product10,
-            unit = "7pcs, Priceg",
+            title = "SSD",
+            description = "Solid State Drive",
+            image = R.drawable.ssdtm,
+            unit = "Storage",
             price = 4.99,
-            nutritions = "100gr",
+            nutritions = "SSD",
             review = 4.0
         ),
         navController = rememberNavController(),

@@ -73,32 +73,32 @@ fun ListContentProductPreview() {
         products = listOf(
             ProductItem(
                 id = 1,
-                title = "Organic Bananas",
+                title = "SSD TEAMGROUP 500 GB",
                 description = "",
-                image = R.drawable.product10,
-                unit = "7pcs, Priceg",
+                image = R.drawable.ssdtm,
+                unit = "Storage",
                 price = 4.99,
-                nutritions = "100gr",
+                nutritions = "TEAMGROUP",
                 review = 4.0
             ),
             ProductItem(
                 id = 1,
-                title = "Organic Bananas",
+                title = "SSD TEAMGROUP 500 GB",
                 description = "",
-                image = R.drawable.product10,
-                unit = "7pcs, Priceg",
+                image = R.drawable.ssdtm,
+                unit = "Storage",
                 price = 4.99,
-                nutritions = "100gr",
+                nutritions = "TEAMGROUP",
                 review = 4.0
             ),
             ProductItem(
                 id = 1,
-                title = "Organic Bananas",
+                title = "SSD TEAMGROUP 500 GB",
                 description = "",
-                image = R.drawable.product10,
-                unit = "7pcs, Priceg",
+                image = R.drawable.ssdtm,
+                unit = "Storage",
                 price = 4.99,
-                nutritions = "100gr",
+                nutritions = "TEAMGROUP",
                 review = 4.0
             )
         ),

@@ -262,12 +262,12 @@ fun DetailScreenImageHeaderPreview() {
     DetailContentImageHeader(
         ProductItem(
             id = 1,
-            title = "Organic Bananas",
-            description = "Apples are nutritious. Apples may be good for weight loss. apples may be good for your heart. As part of a healtful and varied diet.",
-            image = R.drawable.product2,
-            unit = "7pcs, Priceg",
+            title = "SSD TEAMGROUP 500 GB",
+            description = "",
+            image = R.drawable.ssdtm,
+            unit = "Storage",
             price = 4.99,
-            nutritions = "100gr",
+            nutritions = "TEAMGROUP",
             review = 4.0
         )
     )
@@ -279,12 +279,12 @@ fun DetailContentDescriptionPreview() {
     DetailContentImageHeader(
         ProductItem(
             id = 1,
-            title = "Organic Bananas",
-            description = "Apples are nutritious. Apples may be good for weight loss. apples may be good for your heart. As part of a healtful and varied diet.",
-            image = R.drawable.product2,
-            unit = "7pcs, Priceg",
+            title = "Intel Core i9",
+            description = "Intel adalah salah satu merek processor PC",
+            image = R.drawable.inteli9,
+            unit = "CPU",
             price = 4.99,
-            nutritions = "100gr",
+            nutritions = "Intel",
             review = 4.0
         )
     )

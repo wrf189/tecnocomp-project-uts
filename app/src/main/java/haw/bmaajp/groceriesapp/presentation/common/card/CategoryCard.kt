@@ -62,8 +62,8 @@ fun CategoryCard(
 fun CategoryCardPreview() {
     CategoryCard(
         categoryItem = CategoryItem(
-            title = "Fresh Fruits\n" + "& Vegetable",
-            image = R.drawable.category2,
+            title = "Aksesoris\n" + "& Komputer",
+            image = R.drawable.aksesoris,
             background = BackgroundCategory3
         )
     )
