@@ -63,7 +63,7 @@ fun CategoryCardPreview() {
     CategoryCard(
         categoryItem = CategoryItem(
             title = "Aksesoris\n" + "& Komputer",
-            image = R.drawable.aksesoris,
+            image = R.drawable.category1,
             background = BackgroundCategory3
         )
     )

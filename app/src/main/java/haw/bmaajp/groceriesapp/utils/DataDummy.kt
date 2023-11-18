@@ -374,32 +374,32 @@ object DataDummy {
         return listOf(
             CategoryItem(
                 title = "Accessories",
-                image = R.drawable.aksesoris,
+                image = R.drawable.category1,
                 background = BackgroundCategory1
             ),
             CategoryItem(
                 title = "VGA Card",
-                image = R.drawable.aksesoris,
+                image = R.drawable.category2,
                 background = BackgroundCategory2
             ),
             CategoryItem(
                 title = "CPU/Processor",
-                image = R.drawable.aksesoris,
+                image = R.drawable.category3,
                 background = BackgroundCategory3
             ),
             CategoryItem(
                 title = "Motherboard",
-                image = R.drawable.aksesoris,
+                image = R.drawable.category4,
                 background = BackgroundCategory4
             ),
             CategoryItem(
                 title = "Power Supply",
-                image = R.drawable.aksesoris,
+                image = R.drawable.category5,
                 background = BackgroundCategory5
             ),
             CategoryItem(
                 title = "Storage &" + "\nRAM PC",
-                image = R.drawable.aksesoris,
+                image = R.drawable.category6,
                 background = BackgroundCategory6
             )
         )
