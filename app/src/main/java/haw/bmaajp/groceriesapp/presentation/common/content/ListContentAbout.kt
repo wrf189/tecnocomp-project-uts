@@ -54,7 +54,7 @@ fun ItemAbout(
                 .fillMaxWidth()
         ) {
             Image(
-                modifier = Modifier.size(DIMENS_24dp),
+                modifier = Modifier.size(DIMENS_64dp),
                 painter = painterResource(id = aboutItem.image),
                 contentDescription = stringResource(R.string.image_category)
             )
