@@ -50,11 +50,11 @@ fun ItemAbout(
 
         Row(
             modifier = modifier
-                .padding(start = DIMENS_20dp, end = DIMENS_20dp, top = DIMENS_24dp)
+                .padding(start = DIMENS_24dp, end = DIMENS_24dp, top = DIMENS_18dp)
                 .fillMaxWidth()
         ) {
             Image(
-                modifier = Modifier.size(DIMENS_24dp),
+                modifier = Modifier.size(DIMENS_40dp),
                 painter = painterResource(id = aboutItem.image),
                 contentDescription = stringResource(R.string.image_category)
             )

@@ -412,8 +412,8 @@ object DataDummy {
                 title = "About Us"
             ),
             AboutItem(
-                image = R.drawable.baseline_groups_24,
-                title = "Kelompok 4 BM5B",
+                image = R.drawable.white,
+                title = "Tecnocomp merupakan aplikasi e-commerce komputer untuk mempermudah anda mencari perlengkapan dan part komputer dengan mudah dari genggaman anda",
             ),
             AboutItem(
                 image = R.drawable.asrul,
